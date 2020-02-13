@@ -39,4 +39,3 @@ public class Main {
         return sequenceArr;
     }
 }
-C:\Users\Ouan\IdeaProjects\Pandigit1
